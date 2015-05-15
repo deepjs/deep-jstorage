@@ -1,7 +1,7 @@
 {
   "name": "deep-jstorage",
   "main": "index.js",
-  "version": "0.3.0",
+  "version": "0.3.5",
   "homepage": "https://github.com/deepjs/deep-jstorage",
   "authors": [
     "Gilles Coomans <gilles.coomans@gmail.com>"
